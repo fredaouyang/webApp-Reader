@@ -19,7 +19,7 @@
 ## 构建网站顺序
 ------
 #### 1. 下载项目到你的电脑
-- $ git clone https://github.com/cccyb/Reader.git
+- $ git clone https://github.com/fredaouyang/webApp-Reader
 
 #### 2.安装
 - $ npm install
