@@ -16,3 +16,13 @@
 > * Node.js-Koa
 > * Vue.js
 > * EJS
+## 构建网站顺序
+------
+#### 1. 下载项目到你的电脑
+- $ git clone https://github.com/cccyb/Reader.git
+
+#### 2.安装
+- $ npm install
+
+#### 3.预览端口号
+- $ serve with hot reload at localhost:2009
